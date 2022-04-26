@@ -1,0 +1,23 @@
+import numpy as geek
+  
+# matrix creation by array input
+a = geek.matrix([[1, 21, 30], 
+                 [63 ,434, 3], 
+                 [54, 54, 56]])
+  
+print("Main Diagonal elements : \n", geek.diag(a), "\n")
+  
+print("Diagonal above main diagonal : \n", geek.diag(a, 1), "\n")
+  
+print("Diagonal below main diagonal : \n", geek.diag(a, -1))
+Đầu ra: 
+ 
+
+Các yếu tố đường chéo chính:
+ [  1 434  56] 
+
+Đường chéo phía trên đường chéo chính:
+ [21  3] 
+
+Đường chéo bên dưới đường chéo chính:
+ [63 54]
