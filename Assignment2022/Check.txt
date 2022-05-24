@@ -1,0 +1,13 @@
+Câu 1:	Check sort Chữ cái+Index đúng chưa
+Câu 2:	Check nếu như không xếp theo thứ tự index 1--->n mà random
+Câu 3:	check nếu số lượng k truyền vào không đúng thì ra rỗng
+	lấy theo thứ tự sản phẩm trong list
+Câu 5:	k không có list rỗng
+Câu 8:	xử lí khoảng trắng dư thừa
+Câu 10:	nhiều cái như nhau chọn cái đầu tiên
+	nếu k không tồn tại thì .......
+khác:	kiểm tra th không phải I..,hoặc U..
+
+--Kiểm tra phần sort I,U cho tất cả các trường hợp nếu có thể xảy ra---
+
+
